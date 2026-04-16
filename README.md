@@ -88,3 +88,10 @@ These metrics help assess how effectively the model distinguishes between differ
 Developed as a project demonstrating the application of **deep learning in industrial quality inspection**, focusing on improving efficiency, consistency, and scalability in textile defect detection.
 
 ---
+
+## Contributors
+Daksh Aswani
+Yash Raj
+Dhiarya Shivhare
+
+---
